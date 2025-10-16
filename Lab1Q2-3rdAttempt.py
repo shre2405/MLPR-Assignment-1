@@ -5,7 +5,7 @@ from sklearn.metrics import confusion_matrix
 import seaborn as sns
 
 """
-Question 2: Multi-Class Gaussian Mixture Classification
+Multi-Class Gaussian Mixture Classification
 Best Hybrid Implementation with Step-by-Step Visualization
 """
 

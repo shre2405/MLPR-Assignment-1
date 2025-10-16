@@ -6,7 +6,7 @@ from scipy.stats import multivariate_normal
 np.random.seed(42)
 
 print("="*80)
-print("Question 1 Part B: Naive Bayes Classifier (Model Mismatch Analysis)")
+print("Naive Bayes Classifier (Model Mismatch Analysis)")
 print("="*80)
 
 # ============================================================================

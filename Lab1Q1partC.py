@@ -6,7 +6,7 @@ from scipy.stats import multivariate_normal
 np.random.seed(42)
 
 print("="*80)
-print("Question 1 Part C: Fisher Linear Discriminant Analysis (LDA) Classifier")
+print("Fisher Linear Discriminant Analysis (LDA) Classifier")
 print("="*80)
 
 # ============================================================================
